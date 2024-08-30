@@ -1,6 +1,6 @@
 # Fox's First CS193 Homework
 
-## My Favorit Things About CS193
+## My Favorite Things About CS193
 - ONCE A WEEK!!!
 - Awesome TAs!
 - HAS ALREAD HELPED IN CS180!!
