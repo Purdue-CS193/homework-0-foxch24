@@ -1,3 +1,17 @@
+# Fox's First CS193 Homework
+
+## My Favorit Things About CS193
+- ONCE A WEEK!!!
+- Awesome TAs!
+- HAS ALREAD HELPED IN CS180!!
+- Chill classmates
+- Optional SI
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
